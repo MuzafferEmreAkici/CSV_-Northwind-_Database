@@ -1,18 +1,4 @@
-SELECT*FROM customers
-SELECT*FROM customercustomerdemo
-SELECT*FROM customerdemographics
-SELECT*FROM categories
-SELECT*FROM employees
-SELECT*FROM employeeterritories
-SELECT*FROM order_details
-SELECT*FROM orders
-SELECT*FROM products
-SELECT*FROM region
-SELECT*FROM shippers
-SELECT*FROM shippers_tmp
-SELECT*FROM suppliers
-SELECT*FROM territories
-SELECT*FROM usstates
+
 
 
 
